@@ -1,0 +1,28 @@
+Componentes de Redes
+
+Tipos de redes:
+
+Rede: ClientToServer 
+Client -> Internet -> Server
+       <-          <-
+Servidores Web, servidores de e-mail, servidores de arquivos.
+O Client solicita algo do servidor e o servidor devolve.
+
+
+Rede: Ponto a Ponto
+Impressora <-> Computador1 <-> Computador2
+É possivel que um dispositivo seja um cliente e um servidor em uma rede ponto a ponto.
+É recomendado apenas para redes muito pequenas.
+
+
+Disposiivos de rede Finais -
+Todos os dispositivos finais(ponta) são chamados de endpoint, exemplo: Impressora, Celular, Desktops etc...
+
+
+Dispositivos de rede Intermediarios -
+Um dispositivo intermediario interconecta dispositivos finais. Os exemplos incluem comutadores, pontos de acesso sem fio, roteadores e firewalls.
+O Gerenciamento de dados à medida que flui através de uma rede também é o papel de um dispositivo intermediário, incluindo:
+--> Regenerar e retransmitir sinais de dados.
+--> Mantenha informações sobre quais caminhos existem na rede.
+--> Notificar outros dispositivos sobre erros e falhas de comunicação.
+
